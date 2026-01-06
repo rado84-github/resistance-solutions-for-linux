@@ -1,1 +1,3 @@
 This repository will include text files with solutions against aggressive software (like Opera browser) doing whatever it wants in Linux without the user's permission.
+My distro is normally Arch but I had to rename it to "Resist OS" because of the many changes I made to it over the past 7 years. The main reason I chose this particular name is because much of the software I use and the way I use it is a form of resistance against developers who try to dictate how I'll use that software on my own PC. This is Linux, FFS, not... another famous and aggressive OS.
+So, you could call this repository a "Resist OS knowledge base". :) 
