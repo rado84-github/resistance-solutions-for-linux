@@ -15,3 +15,5 @@ But in most cases it's better to reboot the system.
 After you do that, Opera will no longer be able to make itself default browser, no matter what the devs do bc they don't know your sudo password and thus they won't be able to revert your changes.
 
 P.S. Something similar (read-only) could work in Windows, but considering that OS is even more aggressive when it comes to limiting users rights, I highly doubt it would work.
+
+https://www.youtube.com/watch?v=ptu7M45hNSQ
