@@ -2,7 +2,8 @@ If you have come across the agressive and unsolicited behavior by Opera to make 
 
 If your default browser is another and Opera is just secondary for websites testing, first set your preferred browser in your desktop settings. In Cinnamon, XFCE, Gnome it should be "Preferred programs"
 or something like that.
-After that open ~/.local/share/applications/mimeinfo.cache in any text editor (gedit, pluma, etc), press CTRL+H and in the first field type (without the quotes) "opera.desktop;", leave the second field empty and press "Replace all".
+After that open ~/.local/share/applications/mimeinfo.cache in any text editor (gedit, pluma, etc), press CTRL+H and in the first field type (without the quotes) "opera.desktop;", leave the second field empty
+and press "Replace all".
 Thirdly, open the desktop file with the same name ("opera.desktop" - by default it's in /usr/share/applications, unless you have manually moved it to ~/.local/share/applications) with a text editor
 (this will require sudo, if the desktop file is in /usr/share/applications) and remove the entire line that starts with "MimeType=". Save the changes and exit the text editor.
 Finally, open terminal and type:
